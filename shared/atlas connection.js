@@ -1,0 +1,2 @@
+/// for compass;  mongodb+srv://Rahul:wxPnTczopvKoZNXR@cluster0.c8wpk.mongodb.net/hotel 
+//for Node.js ; mongodb+srv://projectUser:Z8TltZKoIUZQND8S@cluster0.c8wpk.mongodb.net?retryWrites=true&w=majority
