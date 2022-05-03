@@ -20,6 +20,6 @@ app.use('/', roomRouter)
     
 // })
 
-app.listen(4000);
+app.listen(process.env.PORT || 4000);
 
 /////Note: for  a specific program only one res.send() can be given. not in all app.use
